@@ -2,8 +2,8 @@
 
 Mini programming projects using C programming language
 
-####Added Projects:
+#### Added Projects:
 
-#####1- Library Management System.
+##### 1- Library Management System.
 
-#####2- Voting System.
+##### 2- Voting System.
