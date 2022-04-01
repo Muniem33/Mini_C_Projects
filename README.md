@@ -4,6 +4,6 @@
 
 #### Added Projects: ####
 
-  * Library Management System.
+     * Library Management System.
 
-  * Voting System.
+     * Voting System.
