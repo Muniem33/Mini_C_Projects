@@ -1,9 +1,9 @@
-# Mini_C_Projects.
+# Mini_C_Projects. #
 
-### Mini programming projects using C programming language.
+### Mini programming projects using C programming language. ###
 
-#### Added Projects:
+#### Added Projects: ####
 
-*#####  Library Management System.
+  * Library Management System.
 
-*#####  Voting System.
+  * Voting System.
