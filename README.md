@@ -1,6 +1,6 @@
 #Mini_C_Projects
 
-###Mini programming projects using C programming language
+Mini programming projects using C programming language
 
 ####Added Projects:
 
